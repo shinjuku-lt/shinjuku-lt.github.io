@@ -1,15 +1,15 @@
 actors:
   HonMarkHunt:
     image_url: /images/actors/alice.png
-    name: alice
+    name: HonMarkHunt
     url: http://sns.example.com/alice
   mnuma:
     image_url: /images/actors/alice.png
-    name: alice
+    name: mnuma
     url: http://sns.example.com/alice
   kyusuke:
     image_url: /images/actors/alice.png
-    name: alice
+    name: kyusuke
     url: http://sns.example.com/alice
   alice:
     image_url: /images/actors/alice.png
@@ -20,8 +20,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: Example description
-description_long: Example long description
+description: Shinjulu.LTの最近や周りにあったあれそれについてお話します
+description_long: Shinjulu.LTの最近や周りにあったあれそれについてお話します
 email: info@example.com
 exclude:
   - docker
@@ -32,7 +32,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: shinjukult
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
