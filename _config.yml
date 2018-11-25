@@ -1,14 +1,14 @@
 actors:
   HonMarkHunt:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/HonMarkHunt.png
     name: HonMarkHunt
     url: http://sns.example.com/alice
   mnuma:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/mnuma.jpg
     name: mnuma
     url: http://sns.example.com/alice
   kyusuke:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/kyusuke.jpg
     name: kyusuke
     url: http://sns.example.com/alice
   alice:
