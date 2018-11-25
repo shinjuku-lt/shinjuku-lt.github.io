@@ -2,15 +2,15 @@ actors:
   HonMarkHunt:
     image_url: /images/actors/HonMarkHunt.png
     name: HonMarkHunt
-    url: http://sns.example.com/alice
+    url: https://twitter.com/HonMarkHunt
   mnuma:
     image_url: /images/actors/mnuma.jpg
     name: mnuma
-    url: http://sns.example.com/alice
+    url: https://twitter.com/mnuma_
   kyusuke:
     image_url: /images/actors/kyusuke.jpg
     name: kyusuke
-    url: http://sns.example.com/alice
+    url: https://twitter.com/8140i2865_3
   alice:
     image_url: /images/actors/alice.png
     name: alice
