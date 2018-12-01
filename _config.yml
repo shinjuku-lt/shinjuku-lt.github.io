@@ -11,7 +11,6 @@ actors:
     image_url: /images/actors/kyusuke.jpg
     name: kyusuke
     url: https://twitter.com/8140i2865_3
-
 sgswtky:
     image_url: /images/actors/sgswtky.jpg
     name: sgswtky
@@ -24,7 +23,6 @@ to4iki:
     image_url: /images/actors/to4iki.jpg
     name: to4iki
     url: https://twitter.com/to4iki
-
 alice:
     image_url: /images/actors/alice.png
     name: alice
