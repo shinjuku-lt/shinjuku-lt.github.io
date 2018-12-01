@@ -11,19 +11,19 @@ actors:
     image_url: /images/actors/kyusuke.jpg
     name: kyusuke
     url: https://twitter.com/8140i2865_3
-sgswtky:
+  sgswtky:
     image_url: /images/actors/sgswtky.jpg
     name: sgswtky
     url: https://twitter.com/sgswtky
-ftsan:
+  ftsan:
     image_url: /images/actors/ftsan.jpg
     name: ftsan
     url: https://twitter.com/futesi_nebusoku
-to4iki:
+  to4iki:
     image_url: /images/actors/to4iki.jpg
     name: to4iki
     url: https://twitter.com/to4iki
-alice:
+  alice:
     image_url: /images/actors/alice.png
     name: alice
     url: http://sns.example.com/alice
